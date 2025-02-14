@@ -1,6 +1,6 @@
-# Purpose
+# Demo
 
-I pride myself on putting effort into the small things like this that matter. I created a small site that will be able to ask my partner if she will be my valentine!
+https://san-valentino-react.vercel.app/
 
 # How to run
 
